@@ -1,4 +1,4 @@
-package shgo.innowise.trainee.covidapi.exceptio;
+package shgo.innowise.trainee.covidapi.exception;
 
 import jakarta.ws.rs.BadRequestException;
 import jakarta.ws.rs.InternalServerErrorException;
